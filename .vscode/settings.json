@@ -1,0 +1,10 @@
+{
+    "maven.view": "flat",
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    }
+}
